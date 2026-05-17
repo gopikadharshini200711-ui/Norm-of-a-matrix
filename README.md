@@ -47,11 +47,12 @@ print(InfinityNorm)
 
 ### 2-Norm of a Matrix
 ```
-<img width="1362" height="819" alt="Screenshot 2026-05-17 142406" src="https://github.com/user-attachments/assets/b19c9c45-4164-4a20-ac40-2abd2a9545ad" />
+<img width="1362" height="819" alt="Screenshot 2026-05-17 142406" src="https://github.com/user-attachments/assets/af74125d-9469-4e8f-93bd-72a5970770d7" />
 ```
-### Infinity Norm of a Matrix
+### 3-Infinity Norm of a Matrix
 ```
-<img width="1347" height="860" alt="Screenshot 2026-05-17 142420" src="https://github.com/user-attachments/assets/e8544289-ea59-4469-aeee-81db89337ec2" />
+<img width="1347" height="860" alt="Screenshot 2026-05-17 142420" src="https://github.com/user-attachments/assets/15b8f5d3-310b-4870-9bca-02ded6b5fdda" />
+
 ```
 ## Result
 ```
